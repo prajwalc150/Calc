@@ -41,4 +41,3 @@ function operate(a,b,c)
     if(a=="/"){return divide(b,c);}
 }
 //console.log(operate('-',3,4));
-//buttons, display, and clear button.

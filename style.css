@@ -1,0 +1,36 @@
+.bigBox{
+    display: flex 1 1 0;
+    /*text-align: center;
+    justify-content: center;*/
+    flex-direction: column;
+    height: 800px;
+    width: 500px;
+    margin: auto;
+    border: 5px solid #3882f6;
+    border-radius: 5px;
+}
+
+.displayBox{
+    height: 150px;
+}
+
+.buttonBox{
+    display:flex;
+    flex-wrap: wrap;
+    height: 650px;
+}
+
+.digitBox{
+    height: 520px;
+    width: 375px;
+}
+
+.operatorBox{
+    height:520px;
+    width:125px;
+}
+
+.delBox{
+    height: 130px;
+    width: 500px;
+}
