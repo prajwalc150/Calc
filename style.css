@@ -21,16 +21,18 @@
 }
 
 .digitBox{
-    height: 520px;
-    width: 375px;
+    height: 80%;
+    width: 75%;
 }
 
 .operatorBox{
-    height:520px;
-    width:125px;
+    display: flex;
+    flex-direction: column;
+    height:80%;
+    width:25%;
 }
 
 .delBox{
-    height: 130px;
-    width: 500px;
+    height: 20%;
+    width: 100%;
 }
