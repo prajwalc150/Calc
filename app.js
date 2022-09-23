@@ -47,7 +47,7 @@ for(i = 2;i>-1;i--){
     //m = 800/n;
     let content = document.createElement('div');
     content.id = `digRow${i}`;
-    //content.classList.add("test");
+    content.classList.add("digRow");
     container.appendChild(content);
     //document.getElementById(`test${i}`).style.height = `${m}px`;
     for( j = 1;j<4;j++){
